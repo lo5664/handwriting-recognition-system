@@ -1,0 +1,6 @@
+Flask
+opencv-python
+tensorflow
+flask-cors
+PyJWT
+python-dotenv
